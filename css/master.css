@@ -48,7 +48,7 @@ img.wimg {
     width: 60px;
     height: 60px;
     margin: 0 auto;
-    background-image: url(/images/clear.svg);
+    background-image: url('/images/clear.svg');
     background-position: center;
     background-size: contain;
     -webkit-animation:spin 4s linear infinite;
