@@ -1,5 +1,5 @@
 //Importing the cities variable from cities.js file
-import { cities } from '/js/cities.js';
+import { cities } from 'js/cities.js';
 let dt = new Date();
 let options = {
     weekday: "long",
